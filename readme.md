@@ -1,17 +1,17 @@
-#简介
+# 简介
 
 源码部分参考了最早的ncmdump（anonymous5l/ncmdump，原作者已经删库），感谢前辈的付出！
 
 使用c++17重写，修复了一些跨平台编译问题。引入openmp、cryptopp等高性能库，理论上是现在开源版本中速度最快的。
 
-#编译
+# 编译
 
 """shell
 xmake
 xmake install
 """
 
-#使用
+# 使用
 
 Windows:编译后打开".\build\windows\x64\release"目录，双击"fastncmdump.exe"。
 
