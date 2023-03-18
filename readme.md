@@ -6,10 +6,10 @@
 
 # 编译
 
-"""shell
+```shell
 xmake
 xmake install
-"""
+```
 
 # 使用
 
