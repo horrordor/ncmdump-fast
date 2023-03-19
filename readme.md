@@ -18,3 +18,9 @@ Windows:编译后打开".\build\windows\x64\release"目录，双击"fastncmdump.
 Linux:编译后打开".\build\linux\x64\release"目录，终端输入"./fastncmdump"。
 
 软件启动后有中文提示，祝你使用愉快！
+
+# 免责声明
+
+软件仅供学习交流，请勿用于商业及非法用途，如产生法律纠纷与本人无关。
+
+如果您认为本软件对您的合法权益产生了侵害，请在issues留言。
